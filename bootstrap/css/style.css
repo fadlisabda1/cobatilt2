@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #d3d3d3;
+}
+
+#projects {
+  background-color: #d3d3d3;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.book-img {
+  width: 100%;
+}
+
+#mybook .row > * {
+  padding: 0;
+}
